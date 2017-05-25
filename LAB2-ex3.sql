@@ -1,0 +1,1 @@
+SELECT ID FROM studentInfo WHERE DoB>'1994-1-1'
